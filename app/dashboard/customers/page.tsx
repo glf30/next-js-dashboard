@@ -1,6 +1,6 @@
 const Page = () => {
   return (
-    <div>Customers</div>
+    <div>Customers!</div>
   )
 }
 
